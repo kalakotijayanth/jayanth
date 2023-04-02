@@ -2,6 +2,8 @@ rows  = int(input())
 colunmns = int(input())
 m =[]
 for i in range(rows):
+
+
     a=[]
     for j in range(colunmns):
      a.append(int(input()))
